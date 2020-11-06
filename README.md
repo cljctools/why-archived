@@ -22,5 +22,5 @@ UPDATE (same day):
 - don't know, probably moment of weekness/disbelief...
 - I do apologize for mischievous post
 
-[same post on reddit](https://www.reddit.com/r/Clojure/comments/jp1snq/githubcomcljctools_archived_will_use_usernametool/)
+[same post on reddit](https://www.reddit.com/r/Clojure/comments/jp1snq/githubcomcljctools_archived_will_use_usernametool/)  
 [same post in deathstar.lab](https://github.com/sergeiudris/deathstar.lab/blob/50943c8286ed2c9d2506dc2a0c73c5961ef92fd9/posts/2020-11-06-cljctools-archived.md)
