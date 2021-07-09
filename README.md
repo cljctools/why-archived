@@ -1,7 +1,5 @@
 # ~~why-archived~~
 
-[archived]
-
 - <s>there is no such thing as cljctools, it's an attempt to "hold",control,make an org, rather than value
 - so we as makers/contirbutors have our namespaces, so when should it be project and when ours?
 - well, it's always one thing we're making that defines the namespaces, other derivative tools share it
