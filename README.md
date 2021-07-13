@@ -1,6 +1,6 @@
-# ~~why-archived~~
+# why-archived
 
-- <s>there is no such thing as cljctools, it's an attempt to "hold",control,make an org, rather than value
+- there is no such thing as cljctools, it's an attempt to "hold",control,make an org, rather than value
 - so we as makers/contirbutors have our namespaces, so when should it be project and when ours?
 - well, it's always one thing we're making that defines the namespaces, other derivative tools share it
 - for example, https://github.com/DeathStarGame/DeathStarGame should have it's own namespace, because it's a living thing, not abstract "some games"
@@ -15,7 +15,7 @@
 - the same thing happened with making a YT channel for DeathStarGame/DeathStarGame - which, again , was an fear-induced attempt of "holding" the internet
 - did resolve it yesterday - https://github.com/DeathStarGame/DeathStarGame/commit/c712c6cea43a2ad4f9579f529ea29bc14f38f793 - both helping the project nad myself
 - takeaway - focus on creating value, not abstract organizations
-- if a repo is a living its own project, it should get its mirror namepsace - /repo/repo</s>
+- if a repo is a living its own project, it should get its mirror namepsace - /repo/repo
 
 UPDATE (same day):
 - I'm wrong. I need that namespace both to avoid collisions and because it's dream
